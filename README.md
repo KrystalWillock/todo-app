@@ -1,2 +1,3 @@
 # todo-app
-demo
+
+Todo app demo
